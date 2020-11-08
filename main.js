@@ -12,6 +12,9 @@ const mat2 = [
 ];
 
 
+
+
+
 /*
 product                     sum
 27   39   33                2   5   8
